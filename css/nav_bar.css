@@ -1,0 +1,22 @@
+.nav_bar{
+    display: flexbox;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.nav_bar a{
+    font-size: 25px;
+    color: aliceblue;
+    border: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgb(80, 80, 80);
+    margin-right: 5px;
+}
+.nav_bar a:hover{
+    transition-duration: 0.25s;
+    background-color: rgb(128, 128, 128);
+}

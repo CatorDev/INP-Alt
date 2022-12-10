@@ -1,0 +1,19 @@
+body, html{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(36, 32, 35);
+    color: aliceblue;
+}
+* a{
+    text-decoration: none;
+}
+header{
+    text-align: center;
+}
+header hr{
+    height: 5px;
+    border: none;
+    color: aliceblue;
+    background-color: aliceblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
